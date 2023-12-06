@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TECH ENGAGE</title>
+  <style>
+    /* Style the heading */
+    h1 {
+      font-family: Arial, sans-serif; /* Choose your preferred font family */
+      font-size: 36px; /* Adjust the font size */
+      color: #333; /* Choose your preferred font color */
+      text-align: center; /* Align the text to the center */
+      /* Additional styling if needed */
+    }
+  </style>
+</head>
+<body>
+  <!-- Heading -->
+  <h1>TECH ENGAGE</h1>
