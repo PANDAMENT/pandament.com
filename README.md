@@ -1,8 +1,5 @@
-<html>
-<head>
-  <title>TECH ENGAGE</title>
 
-Brief description or overview of the project.
+  TECH ENGAGE
 
 ## Table of Contents
 - [About](intro to digital resources)
