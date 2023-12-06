@@ -7,7 +7,7 @@
   <style>
     /* Styles for the header */
     body {
-      margin: 0;
+      margin: 5;
       font-family: sans-serif;
       display: flex;
       justify-content: center;
