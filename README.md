@@ -8,11 +8,11 @@
     /* Styles for the header */
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
+      font-family: sans-serif;
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 150vh;
       background-color: #f0f0f0;
     }
     h1 {
